@@ -1,4 +1,3 @@
-"""\
 # PCA Image Compression
 
 This project demonstrates how Principal Component Analysis (PCA) can be used to compress and reconstruct images. PCA is a powerful dimensionality reduction technique that helps in reducing the storage and computational cost of image data while preserving its essential features.
@@ -67,4 +66,3 @@ The notebook includes examples showing:
 ## 📄 License
 
 This project is licensed under the MIT License.
-"""
